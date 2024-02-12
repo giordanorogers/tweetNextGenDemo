@@ -25,7 +25,7 @@ summ_prompt = ChatPromptTemplate.from_template(summ_template)
 
 # declare a model
 summ_model = (
-    ChatOpenAI(temperature=0)
+    ChatOpenAI(temperature=0.0)
 )
 
 # declare an output parser
