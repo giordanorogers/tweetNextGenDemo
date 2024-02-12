@@ -1,0 +1,13 @@
+.env
+
+langchain1/
+
+langchain2/
+
+models_extra/
+
+pinecone_testing/
+
+__pycache__/
+
+elevenlabs.py
